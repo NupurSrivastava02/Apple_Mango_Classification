@@ -1,2 +1,4 @@
 # Apple_Mango_Classification
-Fruit detection system which will detect whether it is mango or apple 
+Fruit Detection on Yolov5 using Jetson Nano 2gb Developer Kit.
+Fruit detection system which will detect whether an image is mango or apple.
+
