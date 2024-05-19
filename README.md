@@ -11,5 +11,5 @@
 ## Abstract
 ### An object is classified based on whether it is a mango or an apple and is detected by the live feed from the system’s camera.
 ### We have completed this project on jetson nano which is a very small computational device.
-### A lot of research is being conducted in the field of Computer Vision and Machine Learning (ML), where machines are trained to identify various objects from one another. ### Machine Learning provides various techniques through which various objects can be detected.
+### A lot of research is being conducted in the field of Computer Vision and Machine Learning (ML), where machines are trained to identify various objects from one another. Machine Learning provides various techniques through which various objects can be detected.
 ### One such technique is to utilize YOLOv5 with the Roboflow model, which generates a small-size trained model and makes ML integration easier.
