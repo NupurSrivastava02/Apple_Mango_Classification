@@ -1,6 +1,17 @@
 # Apple_Mango_Classification
 ## Fruit Detection on Yolov5 using Jetson Nano 2GB Developer Kit.
 ### Fruit detection system which will detect whether an object is an apple or a mango.
+
+
+
+
+
+
+# DEMO
+
+https://github.com/NupurSrivastava02/Apple_Mango_Classification/assets/144630507/86e0b93b-5540-4de7-9b12-8fa3060f0a7b
+
+
 ### Aim and Objective
 ## Aim
 ### To create a fruit detection system which detects objects based on whether it is an apple or a mango.
