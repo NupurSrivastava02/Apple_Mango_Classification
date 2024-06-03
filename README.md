@@ -11,6 +11,8 @@
 
 https://github.com/NupurSrivastava02/Apple_Mango_Classification/assets/144630507/86e0b93b-5540-4de7-9b12-8fa3060f0a7b
 
+video link :- https://youtu.be/QDliEgSybCo?si=I_ck6DTATPu2m0_7
+
 
 ### Aim and Objective
 ## Aim
