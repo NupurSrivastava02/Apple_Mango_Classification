@@ -1,6 +1,5 @@
 # Object Detection Model 
-### Fruit detection system which will detect whether an object is an apple or a mango.
-
+### YOLOv5 object detection model for fruit localization (apples vs mangoes) with bounding box prediction.
 
 
 
