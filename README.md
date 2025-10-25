@@ -1,5 +1,6 @@
 # Object Detection Model 
-### YOLOv5 object detection model for fruit localization (apples vs mangoes) with bounding box prediction.
+### This project uses YOLOv5 to detect and localize objects in images by generating bounding boxes and class labels. 
+### Model performance: ~81% mAP after data augmentation and hyperparameter tuning.
 
 
 
